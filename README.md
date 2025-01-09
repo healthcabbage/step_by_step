@@ -19,4 +19,5 @@
 - 10회 이동후에는 총 이동거리와 총 이벤트 발생횟수를 출력한다.
 
 이미지
+
 ![image](https://github.com/user-attachments/assets/ffa9da5d-91c7-4fcc-becd-676a68807305)
